@@ -1,0 +1,4 @@
+
+// generate sha
+// goes directory where have keystore
+E:\android essential\googlefitExample>keytool -keystore keystore.jks -list -v
